@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_CJkNX3u7vt3GeJaWiHahmxXGaq07",
+  "orgId": "team_DN35XkBbb0HYw7JAjTr9EH1T",
+  "projectName": "campus-smart-navigation",
+  "settings": {
+    "createdAt": 1793645645109,
+    "framework": "vite",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "26.x"
+  }
+}
